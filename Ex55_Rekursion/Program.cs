@@ -10,6 +10,7 @@ namespace Ex55_Rekursion
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
